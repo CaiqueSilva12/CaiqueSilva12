@@ -2,7 +2,7 @@
 
 I'm a Full Stack developer, passionate about technology and in constant development.
 
-<div>
+<div style='display: inline_block'>
   <img height='180' src='https://github-readme-stats.vercel.app/api?username=CaiqueSilva12&show_icons=true&theme=dracula'/>
   <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueSilva12&layout=compact&theme=dracula' />
 </div></br>
